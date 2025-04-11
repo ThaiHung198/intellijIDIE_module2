@@ -1,4 +1,4 @@
-package Thuchanh_RectangleClass;
+package thuchanhrectangleClass;
 
 public class RectangularClass {
     double width,height;

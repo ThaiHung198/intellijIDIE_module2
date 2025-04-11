@@ -1,4 +1,4 @@
-package thuchanh_StaticMethod;
+package thuchanhstaticMethod;
 
 public class MainStudent {
     public static void main(String[] args) {

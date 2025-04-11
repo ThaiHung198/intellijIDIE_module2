@@ -1,4 +1,4 @@
-package BuildingAQuadraticEquationClass;
+package buildingaquadraticequationclass;
 
 public class QuadraticEquationClass {
     double a, b, c;

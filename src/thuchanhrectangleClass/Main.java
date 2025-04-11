@@ -1,4 +1,4 @@
-package Thuchanh_RectangleClass;
+package thuchanhrectangleClass;
 
 import java.util.Scanner;
 

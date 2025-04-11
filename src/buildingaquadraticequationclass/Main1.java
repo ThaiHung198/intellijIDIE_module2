@@ -1,4 +1,4 @@
-package BuildingAQuadraticEquationClass;
+package buildingaquadraticequationclass;
 
 import java.util.Scanner;
 

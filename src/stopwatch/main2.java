@@ -1,4 +1,4 @@
-package StopWatch;
+package stopwatch;
 
 import java.util.Random;
 

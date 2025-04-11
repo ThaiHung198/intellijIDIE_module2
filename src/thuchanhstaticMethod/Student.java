@@ -1,4 +1,4 @@
-package thuchanh_StaticMethod;
+package thuchanhstaticMethod;
 
 public class Student {
     private  int rollno;

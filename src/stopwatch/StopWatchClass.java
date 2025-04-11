@@ -1,4 +1,4 @@
-package StopWatch;
+package stopwatch;
 
 public class StopWatchClass {
     private long startTime;
