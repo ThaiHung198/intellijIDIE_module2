@@ -13,8 +13,8 @@ public class Square extends Rectangle {
         return getWidth();
     }
     public void setSide(double side){
-        setWidth(side);
-        setLength(side);
+        super.setWidth(side);
+        super.setLength(side);
     }
 
     public Square(double width, double length) {
